@@ -3,6 +3,13 @@
 Use html strip tag functions and extract links inside href to be used ​​as unformatted html
 
 
+### Install using composer
+
+```
+composer require josianocarvalho/extract-hyperlinks
+
+```
+
 
 ```php
 
