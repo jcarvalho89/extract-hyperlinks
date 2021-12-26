@@ -1,0 +1,19 @@
+{
+    "name": "josianocarvalho/extract-hyperlinks",
+    "description": "Use html strip tag functions and extract links inside href to be used ​​as unformatted html",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Josianocarvalho\\ExtractHyperlinks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josiano Carvalho",
+            "email": "josiano.sc@hotmail.com"
+        }
+    ],
+    "require": {}
+}
