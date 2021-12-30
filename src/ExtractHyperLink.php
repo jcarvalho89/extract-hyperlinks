@@ -1,6 +1,6 @@
 <?php
 
-namespace ExtractHyperLink;
+namespace Josianocarvalho\ExtractHyperLink;
 
 class ExtractHyperLink
 {
